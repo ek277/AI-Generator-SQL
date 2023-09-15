@@ -1,7 +1,5 @@
-import "./App.css";
-
-const App = () => {
-  return <div className="app"></div>;
+const MessageDisplay = () => {
+  return <div className="message-display"></div>;
 };
 
-export default App;
+export default MessageDisplay;
