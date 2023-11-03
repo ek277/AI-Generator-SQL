@@ -1,4 +1,3 @@
-import "./App.css";
 import CodeDisplay from "./components/CodeDisplay";
 import MessagesDisplay from "./components/MessagesDisplay";
 
