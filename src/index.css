@@ -34,3 +34,32 @@ input {
   background-color: rgb(34, 34, 34);
   overflow: hidden;
 }
+
+.buttons {
+  width: 100%;
+  height: 35px;
+  background-color: rgb(50, 50, 50);
+  display: flex;
+  align-items: center;
+  padding-left: 5px;
+}
+
+.button {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  margin: 4px;
+  background-color: red;
+}
+
+.button.first {
+  background-color: rgb(255, 96, 86);
+}
+
+.button.middle {
+  background-color: rgb(255, 189, 45);
+}
+
+.button.last {
+  background-color: rgb(38, 201, 64);
+}
